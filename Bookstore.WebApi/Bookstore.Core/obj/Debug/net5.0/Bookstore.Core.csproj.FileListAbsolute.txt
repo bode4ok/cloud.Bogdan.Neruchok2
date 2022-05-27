@@ -1,0 +1,12 @@
+D:\bode4ok\Bookstore.WebApi\Bookstore.Core\bin\Debug\net5.0\Bookstore.Core.deps.json
+D:\bode4ok\Bookstore.WebApi\Bookstore.Core\bin\Debug\net5.0\Bookstore.Core.dll
+D:\bode4ok\Bookstore.WebApi\Bookstore.Core\bin\Debug\net5.0\ref\Bookstore.Core.dll
+D:\bode4ok\Bookstore.WebApi\Bookstore.Core\bin\Debug\net5.0\Bookstore.Core.pdb
+D:\bode4ok\Bookstore.WebApi\Bookstore.Core\obj\Debug\net5.0\Bookstore.Core.csproj.AssemblyReference.cache
+D:\bode4ok\Bookstore.WebApi\Bookstore.Core\obj\Debug\net5.0\Bookstore.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\bode4ok\Bookstore.WebApi\Bookstore.Core\obj\Debug\net5.0\Bookstore.Core.AssemblyInfoInputs.cache
+D:\bode4ok\Bookstore.WebApi\Bookstore.Core\obj\Debug\net5.0\Bookstore.Core.AssemblyInfo.cs
+D:\bode4ok\Bookstore.WebApi\Bookstore.Core\obj\Debug\net5.0\Bookstore.Core.csproj.CoreCompileInputs.cache
+D:\bode4ok\Bookstore.WebApi\Bookstore.Core\obj\Debug\net5.0\Bookstore.Core.dll
+D:\bode4ok\Bookstore.WebApi\Bookstore.Core\obj\Debug\net5.0\ref\Bookstore.Core.dll
+D:\bode4ok\Bookstore.WebApi\Bookstore.Core\obj\Debug\net5.0\Bookstore.Core.pdb
